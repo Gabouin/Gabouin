@@ -10,21 +10,28 @@
 
 ## 💫 About Me:
 
-I am currently working on hardware projects such as a robotic arm and a cubesat and I am also working on my personnal website as I try to learn web development and software. I also want to learn APIs. I am an Hack Clubber (active in Hack Club the website that pay teens to make their projects) and I am an official support in on of Hack Club's teen program. I am the reunion Island ambassador for Stardance, an Hack Club program in partnership with NASA.
+Maker, aerospace nerd, and teenager from Reunion Island 🌊
+Currently preparing for CPGE to reach ISAE-SUPAERO.
 
----
+- I build all type of hardware things that sometimes work on the first try.
+- [@hackclub](https://github.com/hackclub) member. Official Stardance × NASA ambassador for Reunion Island. Support in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
+- I spend way too much time in KiCad and Slack and I learn to code.
+
+Right now I'm working on:
+- 🦾 A robotic arm
+- 🛰️ A CubeSat payload
+- 🌐 My personal website (still learning, always shipping)
+<br>  
+
 
 ## 🌐 Socials:
 
-<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabin.tvr_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Gabouin-i1g)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabintavernier974@gmail.com)
 
-</div>
-
----
+<br>  
 
 ## 💻 Tech Stack:
 
@@ -49,7 +56,7 @@ I am currently working on hardware projects such as a robotic arm and a cubesat 
 
 </div>
 
----
+<br>  
 
 ## 📊 GitHub Stats:
 
@@ -63,13 +70,13 @@ I am currently working on hardware projects such as a robotic arm and a cubesat 
 
 </div>
 
----
+<br>  
 
 ## 💰 You can help me by Donating
 
-<div align="center">
+
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/gabouin)
 
-</div>
+
 
