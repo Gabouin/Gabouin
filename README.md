@@ -8,13 +8,13 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me:
 
-I'm currently working on hardware projects such as a **robotic arm** and a **CubeSat**, and I'm also building my personal website while learning web development and software. I'm a Hack Clubber — an active member of [Hack Club](https://hackclub.com), a nonprofit that empowers teens to build real projects. I'm an official support in one of Hack Club's teen programs and the Réunion Island ambassador for **Stardance**, a Hack Club program in partnership with NASA.
+I am currently working on hardware projects such as a robotic arm and a cubesat and I am also working on my personnal website as I try to learn web development and software. I also want to learn APIs. I am an Hack Clubber (active in Hack Club the website that pay teens to make their projects) and I am an official support in on of Hack Club's teen program. I am the reunion Island ambassador for Stardance, an Hack Club program in partnership with NASA.
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials:
 
 <div align="center">
 
@@ -26,7 +26,7 @@ I'm currently working on hardware projects such as a **robotic arm** and a **Cub
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 <div align="center">
 
@@ -51,7 +51,7 @@ I'm currently working on hardware projects such as a **robotic arm** and a **Cub
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <div align="center">
 
@@ -65,11 +65,11 @@ I'm currently working on hardware projects such as a **robotic arm** and a **Cub
 
 ---
 
-## 💰 Support Me
+## 💰 You can help me by Donating
 
 <div align="center">
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabouin)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/gabouin)
 
 </div>
 
