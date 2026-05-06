@@ -54,6 +54,9 @@ Right now I'm working on:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+<br>
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <br>  
@@ -62,11 +65,9 @@ Right now I'm working on:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true)&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=Gabouin&theme=panda&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gabouin&theme=panda&hide_border=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
