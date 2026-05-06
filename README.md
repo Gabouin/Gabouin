@@ -12,10 +12,7 @@ I am currently working on hardware projects such as a robotic arm and a cubesat 
 ![](https://streak-stats.demolab.com/?user=Gabouin&theme=panda&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/gabouin) 
