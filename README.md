@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Gabouin
+# Hi, I'm Gabouin
 
 **Hardware enthusiast · Web learner · Hack Clubber · Réunion Island 🇷🇪**
 
@@ -8,9 +8,9 @@
 
 ---
 
-## 💫 About Me:
+## About Me:
 
-Maker, aerospace nerd, and teenager from Reunion Island 🌊
+Maker, aerospace nerd, and teenager from Reunion Island
 Currently preparing for CPGE to reach ISAE-SUPAERO.
 
 - I build all type of hardware things that sometimes work on the first try.
