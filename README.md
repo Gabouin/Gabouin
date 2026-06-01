@@ -14,7 +14,7 @@ Maker, aerospace nerd, and teenager from Reunion Island
 Currently preparing for CPGE to reach ISAE-SUPAERO.
 
 - I build all type of hardware things that sometimes work on the first try.
-- [@hackclub](https://github.com/hackclub) member. Official Stardance × NASA ambassador for Reunion Island. Support in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
+- [@hackclub](https://github.com/hackclub) member. Official Stardance × NASA ambassador for Reunion Island. Support and Reviewer in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
 - I spend way too much time in KiCad and Slack and I learn to code.
 
 Right now I'm working on:
