@@ -2,7 +2,7 @@
 
 # Hi, I'm Gabouin
 
-**Hardware enthusiast · Web learner · Hack Clubber · Réunion Island 🇷🇪**
+**Hardware enthusiast · software learner · Hack Clubber · Réunion Island 🇷🇪**
 
 </div>
 
