@@ -10,7 +10,7 @@
 
 ## About Me:
 
-Nerd
+Nerd  
 Currently preparing for CPGE to reach ISAE-SUPAERO.
 
 - I build all type of hardware things.
