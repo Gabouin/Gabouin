@@ -20,7 +20,7 @@ Currently preparing for CPGE to reach ISAE-SUPAERO.
 Right now I'm working on:
 - 🦾 A robotic arm
 - 🛰️ V2 of my [devboard](https://github.com/gabouin/Perdican-V1)
-- 🌐 My personal website (still learning, always shipping)
+- 🌐 My personal website (still learning)
 <br>  
 
 
