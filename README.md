@@ -2,7 +2,7 @@
 
 # Hi, I'm Gabouin
 
-**Hardware enthusiast · software learner · Hack Clubber · Réunion Island 🇷🇪**
+**Hardware guy · software learner · Hack Clubber · Réunion Island 🇷🇪**
 
 </div>
 
@@ -10,21 +10,21 @@
 
 ## About Me:
 
-Maker, aerospace nerd, and teenager from Reunion Island
+Nerd
 Currently preparing for CPGE to reach ISAE-SUPAERO.
 
-- I build all type of hardware things that sometimes work on the first try.
-- [@hackclub](https://github.com/hackclub) member. Official Stardance × NASA ambassador for Reunion Island. Support and Reviewer in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
+- I build all type of hardware things.
+- [@hackclub](https://github.com/hackclub) member. Official Stardance × NASA ambassador for Reunion Island. Support and reviewer in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
 - I spend way too much time in KiCad and Slack and I learn to code.
 
 Right now I'm working on:
-- 🦾 A robotic arm
-- 🛰️ V2 of my [devboard](https://github.com/gabouin/Perdican-V1)
-- 🌐 My personal website (still learning)
+- A robotic arm
+- V2 of my [devboard](https://github.com/gabouin/Perdican-V1)
+- My personal website (still learning)
 <br>  
 
 
-## 🌐 Socials:
+## Socials:
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabin.tvr_)
@@ -33,7 +33,7 @@ Right now I'm working on:
 
 <br>  
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Right now I'm working on:
 
 <br>  
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
 
@@ -70,14 +70,3 @@ Right now I'm working on:
 
 
 </div>
-
-<br>  
-
-## 💰 You can help me by Donating
-
-
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/gabouin)
-
-
-
