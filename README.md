@@ -14,7 +14,7 @@ Nerd
 Currently preparing for CPGE to reach ISAE-SUPAERO.
 
 - I build all type of hardware things.
-- [@hackclub](https://github.com/hackclub) member. Official Stardance × NASA ambassador for Reunion Island. Support and reviewer in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
+- [@hackclub](https://github.com/hackclub) member. Stardance × NASA ambassador for Reunion Island. Support and reviewer in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
 - I spend way too much time in KiCad and Slack and I learn to code.
 
 Right now I'm working on:
@@ -23,6 +23,9 @@ Right now I'm working on:
 - My personal website (still learning)
 <br>  
 
+Here are a few cooly projects I made and that I am proud of lowk :
+
+TO BE ADDED
 
 ## Socials:
 
