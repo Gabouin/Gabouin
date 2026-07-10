@@ -2,7 +2,7 @@
 
 # Hi, I'm Gabouin
 
-**Hardware guy · software learner · Hack Clubber · Réunion Island 🇷🇪**
+**Hardware asf · software sometimes · Hack Clubber · Réunion Island 🇷🇪**
 
 </div>
 
@@ -13,14 +13,14 @@
 Nerd  
 Currently preparing for CPGE to reach ISAE-SUPAERO.
 
-- I build all type of hardware things.
+- I build all typpa hardware things.
 - [@hackclub](https://github.com/hackclub) member. Stardance × NASA ambassador for Reunion Island. Support and reviewer in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
 - I spend way too much time in KiCad and Slack and I learn to code.
 
 Right now I'm working on:
 - A robotic arm
 - V2 of my [devboard](https://github.com/gabouin/Perdican-V1)
-- My personal website (still learning)
+- V2 of my personnal cutie website
 <br>  
 
 Here are a few cooly projects I made and that I am proud of lowk :
