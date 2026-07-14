@@ -1,26 +1,18 @@
-<div align="center">
 
-# Hi, I'm Gabouin
 
-**Hardware asf · software sometimes · Hack Clubber · Réunion Island 🇷🇪**
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comic+Code&pause=1000&width=435&lines=Yo+I'm+Gabin!)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## About Me:
-
-Nerd  
-Currently preparing for CPGE to reach ISAE-SUPAERO.
+Nerd?  
+Currently preparing for CPGE to reach ISAE-SUPAERO (or any aerospace school)  
 
 - I build all typpa hardware things.
-- [@hackclub](https://github.com/hackclub) member. Stardance × NASA ambassador for Reunion Island. Support and reviewer in macondo, a YSWS program by [@NotARoomba](https://github.com/notaroomba)
-- I spend way too much time in KiCad and Slack and I learn to code.
+- [@hackclub](https://github.com/hackclub) member. Stardance ambassador for Reunion Island. Support and reviewer in different YSWS program.
+- I spend way too much time in KiCad and Slack and I try to improve my coding skills.
 
 Right now I'm working on:
 - A robotic arm
 - V2 of my [devboard](https://github.com/gabouin/Perdican-V1)
-- V2 of my personnal cutie website
+- V2 of my [personnal cutie website](https://gabintavernier.com)
 <br>  
 
 Here are a few cooly projects I made and that I am proud of lowk :
@@ -36,12 +28,12 @@ TO BE ADDED
 
 <br>  
 
-## Tech Stack:
+<!-- ## Tech Stack:
 
 <div align="center">
 
-<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)-->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,15 +52,14 @@ TO BE ADDED
 <br>
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-<br>  
+</div>-->
 
 ## GitHub Stats:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true)&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=Gabouin&theme=panda&hide_border=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Gabouin&theme=panda&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gabouin&theme=panda&hide_border=true)
 
 
 
