@@ -7,6 +7,7 @@ Currently preparing for CPGE to reach ISAE-SUPAERO (or any aerospace school)
 
 - I build all typpa hardware things.
 - [@hackclub](https://github.com/hackclub) member. Stardance ambassador for Reunion Island. Support and reviewer in different YSWS program.
+- Organizing [Pixl](https://github.com/ridit-jangra/pixl) with 2 other friends, an official hack club program where you have to make projects in a game to restore it and win prizes shipped to your door!
 - I spend way too much time in KiCad and Slack and I try to improve my coding skills.
 
 Right now I'm working on:
