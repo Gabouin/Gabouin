@@ -1,19 +1,21 @@
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comic+Code&pause=1000&width=435&lines=Yo+I'm+Gabin!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comic+Code&pause=1000&width=435&lines=Heey!+Go+check+https://gabin.gay!)](https://git.io/typing-svg)
 
 Nerd?  
-Currently preparing for CPGE to reach ISAE-SUPAERO (or any aerospace school)  
+Currently preparing for INSA Toulouse to get an electronics degree and work in the aerospace domain!   
 
 - I build all typpa hardware things.
 - [@hackclub](https://github.com/hackclub) member. Stardance ambassador for Reunion Island. Support and reviewer in different YSWS program.
-- Organizing [Pixl](https://github.com/ridit-jangra/pixl) with 2 other friends, an official hack club program where you have to make projects in a game to restore it and win prizes shipped to your door!
+- Organizing [Pixl](https://github.com/ridit-jangra/pixl), an official Hack Club program where teens get to ship STEM projects in a 2D game to get rewarded with real prizes!
 - I spend way too much time in KiCad and Slack and I try to improve my coding skills.
 
 Right now I'm working on:
+- A student Cubesat model
 - A robotic arm
+- My [personal website](https://gabin.gay)
 - V2 of my [devboard](https://github.com/gabouin/Perdican-V1)
-- V2 of my [personnal cutie website](https://gabintavernier.com)
+
 <br>  
 
 Here are a few cooly projects I made and that I am proud of lowk :
